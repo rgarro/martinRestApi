@@ -1,0 +1,22 @@
+{
+  "name": "martinrestapi",
+  "version": "1.0.0",
+  "description": "restApi for Martin Unity3d microgame flight simmulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgarro/martinRestApi.git"
+  },
+  "author": "Rolando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgarro/martinRestApi/issues"
+  },
+  "homepage": "https://github.com/rgarro/martinRestApi#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
